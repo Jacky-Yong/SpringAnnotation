@@ -7,7 +7,7 @@ import javax.annotation.PreDestroy;
 
 public class Person {
 
-    @Value("李平")
+    @Value("eso")
     private String name;
 
     //SpEl
